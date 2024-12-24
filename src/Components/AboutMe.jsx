@@ -161,13 +161,6 @@ const AboutMe = () => {
           fadeDelay={550}
           icon={<p style={{ color: "white" }}>Cloudinary</p>}
         />
-
-        <SkillsCard
-          titleValue={"CLOUDINARY"}
-          fadeSide={"fade-up"}
-          fadeDelay={550}
-          icon={<p style={{ color: "white" }}>Cloudinary</p>}
-        />
       </div>
     </div>
   );
